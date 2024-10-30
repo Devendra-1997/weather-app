@@ -14,7 +14,10 @@ This is a simple weather app built with HTML, CSS, and JavaScript. It fetches an
 
 ## Demo
 
-![Weather App Screenshot](screenshot.png) <!-- Add a screenshot of your app here if desired -->
+![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](screenshot1.png)
+
+<!-- Add a screenshot of your app here if desired -->
 
 ## Tech Stack
 
